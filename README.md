@@ -5,7 +5,7 @@ Hi, I'm a Technology lover specifically the Development side of it, Who loves to
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisisxitij&label=Profile%20views&color=32CD32&style=flat" alt="thisisxitij" /> </p>
 
-<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
+<img align="right" src="https://github.com/thisisxitij/thisisxitij/blob/main/github.gif" alt="thisisxitij" />
 
 - 🌱 I’m currently learning <b>Solidity</b>
 - 🔭 I’m currently exploring <b>Web3</b>
