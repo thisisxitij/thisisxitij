@@ -35,7 +35,7 @@ Linux Kali             13 hrs 00 mins        ███████████�
 ```
 
 <p align=center >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thisisxitij" /> 
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=thisisxitij&theme=react" />
 </p>
 
 ## ✔ My Projects
