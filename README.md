@@ -20,7 +20,12 @@ Hi, I'm a Technology lover specifically the Development side of it, Who loves to
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/thisisxitij/)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/thisisxitij)
 
-[![Kshitij Thakur's github activity graph](https://activity-graph.herokuapp.com/graph?username=thisisxitij&theme=react-dark)](https://github.com/thisisxitij/github-readme-activity-graph)
+
+### Spotify Playing 🎧
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+
+
+
 
 #### I Spent My Time On
 ```text
