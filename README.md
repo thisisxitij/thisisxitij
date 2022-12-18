@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 # Hey there 👋, I'm [Kshitij](https://thisisxitij.github.io/)!
 
-Hi, I'm a Technology lover specifically the Development side of it, Who loves to Know, Hang Around and Learn different Tech and its Development . Also love to talk and speak in groups about all thosedifferent Tech and its benefits in near future and how it can improve our current lifestyle.
+Hi, I'm a Technology lover specifically the Development side of it, Who loves to Know, Hang Around and Learn different Tech and its Development . Also love to talk and speak in groups about all those different Tech and its benefits in near future and how it can improve our current lifestyle.
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisisxitij&label=Profile%20views&color=32CD32&style=flat" alt="thisisxitij" /> </p>
 
