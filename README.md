@@ -7,9 +7,9 @@ Hi, I'm a Technology lover specifically the Development side of it, Who loves to
 
 <img align="right" width="300" src="https://github.com/thisisxitij/thisisxitij/blob/main/giphy.gif" alt="thisisxitij" />
 
-- 🌱 I’m currently learning <b>Solidity</b>
+- 🌱 I’m currently learning <b>Generative AI</b>
 - 🔭 I’m currently exploring <b>Web3</b>
-- 💬 Ask me about **Deep Learning & Android Developement**
+- 💬 Ask me about **Backend Stuff && Deep learning**
 - 📫 Reach me at : **thisisxitij@gmail.com**
 - 🧠 Fav Books: Zero To One, The Psychology Of Money, Atomic Habits & Many More.
 
