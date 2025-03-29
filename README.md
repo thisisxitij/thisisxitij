@@ -26,19 +26,6 @@ Hi, I'm a Technology lover specifically the Development side of it, Who loves to
 
 
 
-
-#### I Spent My Time On
-```text
-💬 Programming Lanuages:
-Deep Learning            4 hr 00 mins        ██████████████░░░░░░░░░░░   50% 
-Solidity                 2 hr 00 mins        ██████████░░░░░░░░░░░░░░░   30% 
-Learning New Stuff       1 hr 00 mins        ██████░░░░░░░░░░░░░░░░░░░   10% 
-Books                    1 hr 00 mins        ██████░░░░░░░░░░░░░░░░░░░   10%
-
-💻 Operating System:
-Linux Kali             13 hrs 00 mins        █████████████████████████   100.0%
-```
-
 <p align=center >
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=thisisxitij&theme=react" />
 </p>
